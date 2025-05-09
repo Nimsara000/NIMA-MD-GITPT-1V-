@@ -23,6 +23,11 @@
 </div>
 
 
+
+<img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=00FF00&width=435&lines=RELES+DAY+2025-+05+02-+DIPLOY" alt="Typing SVG" />
+
+
+
 <a href="https://youtube.com/@nimayt-i7y?si=O3cTUf2xsfUyTfYX"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🔰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🔰" width="300"></a>
 
 
@@ -149,4 +154,4 @@ jobs:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=NIMA-MD+1V;DIPLOY+-+YOU+-+POWERED+BY;LOKU+NIMAH;VOICE+BY;ASHI+THANKS;EDITAR+BY;DILLA+THANKS;MY+PROJECT;MY+FULL+HELP;MR+DINESH+THANKS;LOGOS+BY+USHAN+THANKS" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=0&color=00008B&width=435&lines=BOT+OWNER+CONTACT+%2B94760743488" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=0&color=00008B&width=435&lines=BOT+OWNER+CONTACT+%2B94769091078" alt="Typing SVG" />
